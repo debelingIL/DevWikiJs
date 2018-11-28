@@ -3,4 +3,4 @@
 
 # Design Pattern Library
 * [Foundations](/product/foundations)
-	* Accessibility
+	* <span class="green-fun">Accessibility</span>
